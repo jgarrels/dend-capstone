@@ -1,0 +1,6 @@
+sas_data/*
+*.csv
+*.parquet
+*.SAS
+*.cfg
+.ipynb_checkpoints/*
