@@ -4,3 +4,4 @@ sas_data/*
 *.SAS
 *.cfg
 .ipynb_checkpoints/*
+label_json_creation.py
