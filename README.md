@@ -112,6 +112,7 @@ visacode_desc:
 - key -> immigration.visacode
 - value
 
+A data dictionary can be found in `datadict.md`.
 
 #### 3.2 Mapping Out Data Pipelines
 List the steps necessary to pipeline the data into the chosen data model
