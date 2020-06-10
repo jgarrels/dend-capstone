@@ -11,6 +11,9 @@ The project follows the follow steps:
 * Step 4: Run ETL to Model the Data
 * Step 5: Complete Project Write Up
 
+## Getting started
+For an interactive run through the project, go through capstone_notebook.ipynb. If you just want to run the ETL process, use capstone.py. Please make sure to read "Prerequisites" right below this paragraph before running.
+
 ## Prerequisites
 
 Before running the Jupyter notebook or the Python script, please
@@ -184,3 +187,4 @@ Overall, if all of these sources were to be updated as often as possible when ne
  ## Explanation
 Some of these steps are done for each dataset as it is processed - this is to avoid "hopping around" between the datasets.
 You can best understand these steps if you go through the Jupyter notebook.
+
